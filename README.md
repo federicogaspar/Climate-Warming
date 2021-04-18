@@ -12,6 +12,6 @@ I used regression analysis to model the climate of different areas in the United
 ## Data visualization.
 ### <ins>Density plots across the years.</ins>
 
-![DensityPlot](https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/density_plot_eg.png){:height="50%" width="50%"}
+![DensityPlot](https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/density_plot_eg.png) with <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/density_plot_eg.png" width="100" height="100">
 
 
