@@ -29,4 +29,4 @@ First, I plotted the densities for every city and every year:
 First, I plotted the densities for every city and every year:
 
 
-<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/heatmap.jpg" width="1500">
+<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/heatmap.jpg" width="2000">
