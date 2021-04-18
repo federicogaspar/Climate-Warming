@@ -39,6 +39,8 @@ First, I plotted the densities for every city and every year:
 
 
 
+
+
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Mean%20Temperature%20Evolution%20in%20USA.jpg" width="800">
 
 ### <ins>Mean Temperature.</ins>
@@ -48,5 +50,13 @@ First, I plotted the densities for every city and every year:
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/ALBUQUERQUE.gif" width="800">
 
+
+### <ins>TESTING AND ETC.</ins>
+
+<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Prediction.png" width="800">
+
+<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Training.png" width="800">
+
+<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Std.png" width="800">
 
 
