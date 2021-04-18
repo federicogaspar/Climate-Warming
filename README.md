@@ -10,6 +10,6 @@ I used regression analysis to model the climate of different areas in the United
 - Investigate a way to model the extremity of temperature, rather than just the increasing temperature.
 
 ## Data visualization.
-### Density plots.
+### Density plots across the years.
 
-![alt text](https://github.com/federicogaspar/Climate-Warming/blob/main/densities%20plot/ALBUQUERQUE.pdf)
+![density plots](https://github.com/federicogaspar/Climate-Warming/blob/main/densities%20plot/ALBUQUERQUE.pdf)
