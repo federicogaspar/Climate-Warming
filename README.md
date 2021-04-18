@@ -13,20 +13,20 @@ I used regression analysis to model the climate of different areas in the United
 ### <ins>Density plots across the years.</ins>
 First, I plotted the densities for every city and every year:
 
-<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/density_plot_eg.png" width="600" height="400">
+<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/density_plot_eg.png" width="600">
 
 ### <ins>Calendar plots.</ins>
 First, I plotted the densities for every city and every year:
 
 
-<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/ALBUQUERQUE-1961.jpg" width="600" height="400">
+<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/ALBUQUERQUE-1961.jpg" width="600">
 
 
-<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/ALBUQUERQUE-2015.jpg" width="600" height="400">
+<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/ALBUQUERQUE-2015.jpg" width="600">
 
 
 ### <ins>Heatmap plots across the years.</ins>
 First, I plotted the densities for every city and every year:
 
 
-<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/heatmap.jpg" width="600" >
+<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/heatmap.jpg" width="800">
