@@ -33,11 +33,20 @@ First, I plotted the densities for every city and every year:
 
 
 
+### <ins>Mean Temperature.</ins>
+
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Mean%20Temperature%20Evolution%20ALB.jpg" width="800">
 
 
 
-
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Mean%20Temperature%20Evolution%20in%20USA.jpg" width="800">
+
+### <ins>Mean Temperature.</ins>
+
+<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Monthly%20ALBL.jpg" width="800">
+
+
+<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/ALBUQUERQUE.gif" width="800">
+
 
 
