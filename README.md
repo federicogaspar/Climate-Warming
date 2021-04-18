@@ -12,10 +12,6 @@ I used regression analysis to model the climate of different areas in the United
 ## Data visualization.
 ### Density plots across the years.
 
-![some discription](?raw=true)
+![some discription](https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/density_plot_eg.png)
 
-<object data="https://github/federicogaspar/Climate-Warming/blob/594ebb892b3227d503762e3720d325dacbd65949/densities%20plot/ALBUQUERQUE.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github/federicogaspar/Climate-Warming/blob/594ebb892b3227d503762e3720d325dacbd65949/densities%20plot/ALBUQUERQUE.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
