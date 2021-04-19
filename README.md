@@ -22,7 +22,9 @@ The data, stored in data.csv, contains the daily temperatures observed in 21 U.S
 | 02-01-1965 | 'ALBUQUERQUE' | 12    |
 | 03-02-1965 | 'ALBUQUERQUE' | 8     |
 
-List of cities: ['BOSTON', 'SEATTLE', 'SAN DIEGO', 'PHILADELPHIA', 'PHOENIX', 'LAS VEGAS', 'CHARLOTTE', 'DALLAS', 'BALTIMORE', 'SAN JUAN', 'LOS ANGELES', 'MIAMI', 'NEW ORLEANS', 'ALBUQUERQUE', 'PORTLAND', 'SAN FRANCISCO', 'TAMPA', 'NEW YORK', 'DETROIT', 'ST LOUIS', 'CHICAGO']
+#### List of cities: 
+
+['BOSTON', 'SEATTLE', 'SAN DIEGO', 'PHILADELPHIA', 'PHOENIX', 'LAS VEGAS', 'CHARLOTTE', 'DALLAS', 'BALTIMORE', 'SAN JUAN', 'LOS ANGELES', 'MIAMI', 'NEW ORLEANS', 'ALBUQUERQUE', 'PORTLAND', 'SAN FRANCISCO', 'TAMPA', 'NEW YORK', 'DETROIT', 'ST LOUIS', 'CHICAGO']
 
 ## Data Analysis and Visualization.
 #### Packages required: numpy, pandas, calendar, matplotlib and seaborn.
