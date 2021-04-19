@@ -7,7 +7,7 @@ I used regression analysis to model the climate of different areas in the United
 - Test the models to see how well historical data can predict future temperatures.
 - Investigate a way to model the extremity of temperature, rather than just the increasing temperature.
 
-## Dataset Information and atributtes
+## Dataset Information and Atributtes
 The dataset contains temperature data obtained from the National Centers for Environmental Information (NCEI). 
 The data, stored in data.csv, contains the daily temperatures observed in 21 U.S. cities from 1961 to 2015.
 
@@ -90,4 +90,5 @@ Our intuition predicted that in addition to raising temperature, global warming 
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Std.png" width="800">
 
-
+## Conclusions
+I investigated the global warming effect from a data set of the daily temperatures for 21 cities in the US. We observe a raise on the temperatures in the coolest range of the year. The US yearly mean temperature have raisened about 1.4°C. I also trainned a linear regression model to predict futures yearly mean temperatures. I tested the performance of the model in the range 2010-2015. Although the size of the data is small, the model matches the data. Finally, I explored the variance of the temperatures in data. There is no evidence that temperatures are getting more extreme, on the contrary, it seems that the the tendency is to a more compact uniform distribution. 
