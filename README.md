@@ -28,7 +28,7 @@ First, I plotted the evolution of the temperature densities distribution for eve
 First, I plotted the densities for every city and every year:
 
 
-<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/heatmap.jpg" width="2000">
+<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/heatmap.png" width="2000">
 
 
 
