@@ -25,7 +25,8 @@ First, I plotted the evolution of the temperature densities distribution for eve
 
 ### <ins>Calendar plots.</ins>
 
-Here I plotted the temperature of each day in the calendar for the range of years given in thee data set of every city.
+
+Here I plotted the temperature of each day in the calendar for the range of years given in the data set of every city.
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/ALBUQUERQUE-1961.jpg" width="1000">
 
@@ -34,7 +35,8 @@ Here I plotted the temperature of each day in the calendar for the range of year
 
 
 ### <ins>Heatmap plots across the years.</ins>
-First, I plotted the densities for every city and every year:
+
+Heatmap plot packs the whole data into a single plot. X – axis represents the year, while Y – axis represents the months. The color scale represent the mean temperature. We can  observe how since 1965 monthly mean temperature has been increasing. In fact, for 11/12 months 2015 had higher monthly mean temperatures compared to 1965. Again, the months with lower temperatures are more affected than the months with higher temperatures, indicating that lower temperatures are raising but higher temperatures remains almost constant along the years.
 
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/heatmap.png" width="2000">
