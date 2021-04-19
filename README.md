@@ -1,7 +1,5 @@
 # Climate Warming
-
-## Introduction
-The idea of this data science project is to prove that climate change is not a scam. For that porpouse, I used temperature data obtained from the National Centers for Environmental Information (NCEI). The data, stored in data.csv, contains the daily maximum and minimum temperatures observed in 21 U.S. cities from 1961 to 2015.
+The idea of this project is to prove that climate change is not a scam.
 
 I used regression analysis to model the climate of different areas in the United States in order to find evidence of global warming. The main goals were
 
@@ -9,7 +7,17 @@ I used regression analysis to model the climate of different areas in the United
 - Test the models to see how well historical data can predict future temperatures.
 - Investigate a way to model the extremity of temperature, rather than just the increasing temperature.
 
-## Data visualization.
+## Dataset Information and atributtes
+The dataset contains temperature data obtained from the National Centers for Environmental Information (NCEI). 
+The data, stored in data.csv, contains the daily temperatures observed in 21 U.S. cities from 1961 to 2015.
+
+0 Date (DD/MM/YYYY)
+1 CITIES
+2 TEMP ([°C])
+
+## Data Analysis and Visualization.
+##### Packages required: numpy, pandas, calendar, matplotlib and seaborn.
+
 ### <ins>Density plots across the years.</ins>
 First, I plotted the evolution of the temperature densities distribution for every city in the data base. There is a slight tendency in most of the cities to more compact shape in the recent years compared to a more sparse distribution in the first years recorded. This observation is align with the plot of the standard distribution below where I discussed the hypothesis that global warming makes temperatures more extreme. As far as I can analyze with this data, the yearly lowest temperature is hotter today than in the past, while the highest temperature remains almost constant across the years.
 
