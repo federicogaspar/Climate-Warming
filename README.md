@@ -77,6 +77,10 @@ We have alse included the ratio of the standard error of this fitted curve's slo
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Training.png" width="800">
 
+#### Testing:
+Now we have all the components we need to investigate the trend and cuantify the performance of the linear regression on test data, we are going to use our models to “predict the future”. We compared the model´s predictions to the real data from 2010-2015 (i.e. the TESTING_INTERVAL ) to simulate the future.
+
+We evaluated the model´s performance with Root Mean Square Error (RMSE), which measures the deviation of predicted values from true values. Ee can’t use R^2 here, since R^2 does not have a clear meaning on testing data -- R^2 measures how closely a model matches the data used to generate the model, but we are generating the model with 1961-2009 and testing on 2010-2015. We obtained a value for RMSE of 0.09.
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Prediction.png" width="800">
 
