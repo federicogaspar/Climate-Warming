@@ -11,12 +11,11 @@ I used regression analysis to model the climate of different areas in the United
 
 ## Data visualization.
 ### <ins>Density plots across the years.</ins>
-First, I plotted the densities for every city and every year:
+First, I plotted the evolution of the temperature densities distribution for every city in the data base. There is a slight tendency in most of the cities to more compact shape in the recent years compared to a more sparse distribution in the first years recorded. This observation is align with the plot of the standard distribution below where I discussed the hypothesis that global warming makes temperatures more extreme. As far as I can analyze with this data, the yearly lowest temperature is hotter today than in the past, while the highest temperature remains almost constant across the years.
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/density_plot_eg.png" width="800">
 
 ### <ins>Calendar plots.</ins>
-First, I plotted the densities for every city and every year:
 
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/ALBUQUERQUE-1961.jpg" width="1000">
