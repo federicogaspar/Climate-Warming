@@ -12,7 +12,7 @@ The dataset contains temperature data obtained from the National Centers for Env
 The data, stored in data.csv, contains the daily temperatures observed in 21 U.S. cities from 1961 to 2015.
 
 -  Date (DD/MM/YYYY)
--  CITIES [BOSTON,SEATTLE,SANDIEGO,PHILADELPHIA,PHOENIX,LASVEGAS,CHARLOTTE,DALLAS,BALTIMORE,SANJUAN,LOSANGELES,MIAMI,NEWORLEANS,ALBUQUERQUE,PORTLAND,SANFRANCISCO,TAMPA,NEWYORK,DETROIT,ST LOUIS,CHICAGO]
+-  CITIES 
 -  TEMP ([°C])
 
 ## Data Analysis and Visualization.
@@ -60,18 +60,25 @@ This plot is similar to the previous one but taking the average over cities. The
 
 Here, the blue line represents the daily temperature for a given year and city. The orange line represents the historical daily mean temperature (the mean temperature for a particular day across the years) for the given city. The blue shadow represents the historical range between the minimal and maximal temperatures for a given day in the city. At last, the orange shadow represent the standard deviation of the historical daily mean temperature for each day in a given city. 
 
+In this plot we observe from the blue shadow area that the dispersion of temperatures is greater in the low temperature region (from Octover to April included) than in summer.
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Monthly%20ALBL.jpg" width="800">
 
-The gif pltted below is a representation of the evolution of the precious graph across the years.
+The gif plotted below is a representation of the evolution of the precious graph across the years.
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/ALBUQUERQUE.gif" width="800">
 
 
-### <ins>TESTING AND ETC.</ins>
+### <ins>Linaer model.</ins>
+#### Trainning model:
 
-<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Prediction.png" width="800">
+We train a linear regression model from years in range 1961, 2010. We plotted above the 5 years moving average of the yearly mean temperature in USA (averaging over the cities).  We decided to evaluate how well the model performs by computing the model’s R^2 value, also known as its coefficient of determination. This value provides a measure of how well the total variation of samples is explained by the model. In this case we obtained a value of ~0.93. This shows that the fit the linear model succesfully explain the trend in the data.
+
+We have alse included the ratio of the standard error of this fitted curve's slope to the slope. This ratio measures how likely it is that the trend in the data (upward/downward) and fitting curve just by chance. The larger the absolute value of this ratio is, the more likely it is that the trend is by chance. We obtained a value of 0.04.
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Training.png" width="800">
+
+
+<img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Prediction.png" width="800">
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Std.png" width="800">
 
