@@ -13,6 +13,10 @@ The data, stored in data.csv, contains the daily temperatures observed in 21 U.S
 
 -  Date (DD/MM/YYYY)
 -  CITIES 
+| BOSTON | SEATTLE| SAN DIEGO| PHILADELPHIA| PHOENIX| LAS VEGAS| CHARLOTTE |
+| DALLAS | BALTIMORE| SAN JUAN| LOS ANGELES| MIAMI| NEW ORLEANS| ALBUQUERQUE|
+| PORTLAND | SAN FRANCISCO| TAMPA| NEW YORK| DETROIT| ST LOUIS| CHICAGO  |
+
 -  TEMP ([°C])
 
 ## Data Analysis and Visualization.
