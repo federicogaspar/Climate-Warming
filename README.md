@@ -43,7 +43,7 @@ Heatmap plot packs the whole data into a single plot. X – axis represents the 
 
 
 
-### <ins>Mean Temperature.</ins>
+### <ins>Rollin average mean temperature.</ins>
  
  
 Here, I plotted the 5 year rolling average of the yearly mean temperature as a function of the years for each city. First, the yearly mean temperature was computed. Then, I smoothed the plot by taking the moving average across the previous 5 years. Here the trend is evident. The mean temperature have raisened for all cities in at least 1°.
@@ -56,10 +56,13 @@ This plot is similar to the previous one but taking the average over cities. The
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Mean%20Temperature%20Evolution%20in%20USA.jpg" width="800">
 
-### <ins>Mean Temperature.</ins>
+### <ins>Daily temperature.</ins>
+
+Here, the blue line represents the daily temperature for each month of a particular year in a given city. The orange line represents the historical daily mean temperature for the given city. The blue shadow represents the historical range between the minimal and maximal temperatures for a given day in the city. At last, the orange shadow represent the, standard deviation of the historical daily mean temperature for each day in a given city. 
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Monthly%20ALBL.jpg" width="800">
 
+The gif pltted below is a representation of the evolution of the precious graph across the years.
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/ALBUQUERQUE.gif" width="800">
 
