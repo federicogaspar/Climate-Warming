@@ -67,9 +67,9 @@ The gif plotted below is a representation of the evolution of the precious graph
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/ALBUQUERQUE.gif" width="800">
 
+## Linear Regression Model
+### <ins>Trainning model.</ins>
 
-### <ins>Linear model.</ins>
-#### Trainning model:
 
 We train a linear regression model from years in range 1961, 2010. We plotted above the 5 years moving average of the yearly mean temperature in USA (averaging over the cities).  We decided to evaluate how well the model performs by computing the model’s R^2 value, also known as its coefficient of determination. This value provides a measure of how well the total variation of samples is explained by the model. In this case we obtained a value of ~0.93. This shows that the fit the linear model succesfully explain the trend in the data.
 
@@ -77,14 +77,14 @@ We have alse included the ratio of the standard error of this fitted curve's slo
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Training.png" width="800">
 
-#### Testing:
+### <ins>Testing model.</ins> 
 Now we have all the components we need to investigate the trend and cuantify the performance of the linear regression on test data, we are going to use our models to “predict the future”. We compared the model´s predictions to the real data from 2010-2015 (i.e. the TESTING_INTERVAL ) to simulate the future and we evaluated the model´s performance with Root Mean Square Error (RMSE), which measures the deviation of predicted values from true values. 
 
 We can’t use R^2 here, since R^2 does not have a clear meaning on testing data -- R^2 measures how closely a model matches the data used to generate the model, but we are generating the model with 1961-2009 and testing on 2010-2015. We obtained a value for RMSE of 0.09.
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Prediction.png" width="800">
 
-### <ins>Modeling Extreme Temperatures.</ins>
+## Modeling Extreme Temperatures.
 
 Our intuition predicted that in addition to raising temperature, global warming also makes temperatures more extreme (e.g., very hot or very cold). We surmise that we can model this effect by measuring the standard deviation in our data. A small standard deviation would suggest that the data is very close together around the mean. A larger standard deviation, however, would suggest that the data varies a lot (i.e., more extreme weather). Therefore, we expected that over time, the standard deviation should increase. On contrary we evidenced the oposite effect. This plot is in agreement with the previous plots. 
 
