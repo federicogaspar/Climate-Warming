@@ -15,6 +15,13 @@ The data, stored in data.csv, contains the daily temperatures observed in 21 U.S
 -  CITIES (see above)
 -  TEMP ([°C])
 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 List of cities: ['BOSTON', 'SEATTLE', 'SAN DIEGO', 'PHILADELPHIA', 'PHOENIX', 'LAS VEGAS', 'CHARLOTTE', 'DALLAS', 'BALTIMORE', 'SAN JUAN', 'LOS ANGELES', 'MIAMI', 'NEW ORLEANS', 'ALBUQUERQUE', 'PORTLAND', 'SAN FRANCISCO', 'TAMPA', 'NEW YORK', 'DETROIT', 'ST LOUIS', 'CHICAGO']
 
 ## Data Analysis and Visualization.
