@@ -7,6 +7,9 @@ I used regression analysis to model the climate of different areas in the United
 - Test the models to see how well historical data can predict future temperatures.
 - Investigate a way to model the extremity of temperature, rather than just the increasing temperature.
 
+## Files
+The following analysis was programmed in python. I created a class with the basic method to filter the data that I plotted latter. A unit test file was included in case of further adaptations of the code are needed.
+
 ## Dataset Information and Atributtes
 The dataset contains temperature data obtained from the National Centers for Environmental Information (NCEI). 
 The data, stored in data.csv, contains the daily temperatures observed in 21 U.S. cities from 1961 to 2015.
