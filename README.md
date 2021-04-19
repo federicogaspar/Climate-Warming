@@ -44,11 +44,14 @@ Heatmap plot packs the whole data into a single plot. X – axis represents the 
 
 
 ### <ins>Mean Temperature.</ins>
-
+ 
+ 
+Here, I plotted the 5 year rolling average of the yearly mean temperature as a function of the years for each city. First, the yearly mean temperature was computed. Then, I smoothed the plot by taking the moving average across the previous 5 years. Here the trend is evident. The mean temperature have raisened for all cities in at least 1°.
+    
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Mean%20Temperature%20Evolution%20ALB.jpg" width="800">
 
 
-
+This plot is similar to the previous one but taking the average over cities. The conclusion is that mean temperature have raisened 1.5°C in agreement with the literature.
 
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Mean%20Temperature%20Evolution%20in%20USA.jpg" width="800">
