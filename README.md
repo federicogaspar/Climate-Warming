@@ -11,9 +11,9 @@ I used regression analysis to model the climate of different areas in the United
 The dataset contains temperature data obtained from the National Centers for Environmental Information (NCEI). 
 The data, stored in data.csv, contains the daily temperatures observed in 21 U.S. cities from 1961 to 2015.
 
-- 0 Date (DD/MM/YYYY)
-- 1 CITIES
-- 2 TEMP ([°C])
+-  Date (DD/MM/YYYY)
+-  CITIES  ['BOSTON', 'SEATTLE', 'SAN DIEGO', 'PHILADELPHIA', 'PHOENIX', 'LAS VEGAS', 'CHARLOTTE', 'DALLAS', 'BALTIMORE', 'SAN JUAN', 'LOS ANGELES', 'MIAMI', 'NEW ORLEANS', 'ALBUQUERQUE', 'PORTLAND', 'SAN FRANCISCO', 'TAMPA', 'NEW YORK', 'DETROIT', 'ST LOUIS', 'CHICAGO']
+-  TEMP ([°C])
 
 ## Data Analysis and Visualization.
 #### Packages required: numpy, pandas, calendar, matplotlib and seaborn.
