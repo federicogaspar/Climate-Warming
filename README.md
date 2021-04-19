@@ -12,12 +12,10 @@ The dataset contains temperature data obtained from the National Centers for Env
 The data, stored in data.csv, contains the daily temperatures observed in 21 U.S. cities from 1961 to 2015.
 
 -  Date (DD/MM/YYYY)
--  CITIES 
-| BOSTON | SEATTLE| SAN DIEGO| PHILADELPHIA| PHOENIX| LAS VEGAS| CHARLOTTE |
-| DALLAS | BALTIMORE| SAN JUAN| LOS ANGELES| MIAMI| NEW ORLEANS| ALBUQUERQUE|
-| PORTLAND | SAN FRANCISCO| TAMPA| NEW YORK| DETROIT| ST LOUIS| CHICAGO  |
-
+-  CITIES (see above)
 -  TEMP ([°C])
+
+List of cities: ['BOSTON', 'SEATTLE', 'SAN DIEGO', 'PHILADELPHIA', 'PHOENIX', 'LAS VEGAS', 'CHARLOTTE', 'DALLAS', 'BALTIMORE', 'SAN JUAN', 'LOS ANGELES', 'MIAMI', 'NEW ORLEANS', 'ALBUQUERQUE', 'PORTLAND', 'SAN FRANCISCO', 'TAMPA', 'NEW YORK', 'DETROIT', 'ST LOUIS', 'CHICAGO']
 
 ## Data Analysis and Visualization.
 #### Packages required: numpy, pandas, calendar, matplotlib and seaborn.
