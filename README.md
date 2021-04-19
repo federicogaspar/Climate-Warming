@@ -84,6 +84,10 @@ We can’t use R^2 here, since R^2 does not have a clear meaning on testing data
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Prediction.png" width="800">
 
+### <ins>Modeling Extreme Temperatures.</ins>
+
+Our intuition predicted that in addition to raising temperature, global warming also makes temperatures more extreme (e.g., very hot or very cold). We surmise that we can model this effect by measuring the standard deviation in our data. A small standard deviation would suggest that the data is very close together around the mean. A larger standard deviation, however, would suggest that the data varies a lot (i.e., more extreme weather). Therefore, we expected that over time, the standard deviation should increase. On contrary we evidenced the oposite effect. This plot is in agreement with the previous plots. 
+
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Std.png" width="800">
 
 
