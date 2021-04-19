@@ -12,7 +12,7 @@ The dataset contains temperature data obtained from the National Centers for Env
 The data, stored in data.csv, contains the daily temperatures observed in 21 U.S. cities from 1961 to 2015.
 
 -  Date (DD/MM/YYYY)
--  CITIES  ['BOSTON', 'SEATTLE', 'SAN DIEGO', 'PHILADELPHIA', 'PHOENIX', 'LAS VEGAS', 'CHARLOTTE', 'DALLAS', 'BALTIMORE', 'SAN JUAN', 'LOS ANGELES', 'MIAMI', 'NEW ORLEANS', 'ALBUQUERQUE', 'PORTLAND', 'SAN FRANCISCO', 'TAMPA', 'NEW YORK', 'DETROIT', 'ST LOUIS', 'CHICAGO']
+-  CITIES [BOSTON,SEATTLE,SANDIEGO,PHILADELPHIA,PHOENIX,LASVEGAS,CHARLOTTE,DALLAS,BALTIMORE,SANJUAN,LOSANGELES,MIAMI,NEWORLEANS,ALBUQUERQUE,PORTLAND,SANFRANCISCO,TAMPA,NEWYORK,DETROIT,ST LOUIS,CHICAGO]
 -  TEMP ([°C])
 
 ## Data Analysis and Visualization.
@@ -58,7 +58,7 @@ This plot is similar to the previous one but taking the average over cities. The
 
 ### <ins>Daily temperature.</ins>
 
-Here, the blue line represents the daily temperature for each month of a particular year in a given city. The orange line represents the historical daily mean temperature for the given city. The blue shadow represents the historical range between the minimal and maximal temperatures for a given day in the city. At last, the orange shadow represent the, standard deviation of the historical daily mean temperature for each day in a given city. 
+Here, the blue line represents the daily temperature for a given year and city. The orange line represents the historical daily mean temperature (the mean temperature for a particular day across the years) for the given city. The blue shadow represents the historical range between the minimal and maximal temperatures for a given day in the city. At last, the orange shadow represent the standard deviation of the historical daily mean temperature for each day in a given city. 
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Monthly%20ALBL.jpg" width="800">
 
