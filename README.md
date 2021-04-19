@@ -16,11 +16,11 @@ The data, stored in data.csv, contains the daily temperatures observed in 21 U.S
 -  TEMP ([°C])
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| DATE       | CITIES        | TEMP  |
+| -----------|:-------------:| -----:|
+| 01-01-1965 | 'ALBUQUERQUE' | 7     |
+| 02-01-1965 | 'ALBUQUERQUE' | 12    |
+| 03-02-1965 | 'ALBUQUERQUE' | 8     |
 
 List of cities: ['BOSTON', 'SEATTLE', 'SAN DIEGO', 'PHILADELPHIA', 'PHOENIX', 'LAS VEGAS', 'CHARLOTTE', 'DALLAS', 'BALTIMORE', 'SAN JUAN', 'LOS ANGELES', 'MIAMI', 'NEW ORLEANS', 'ALBUQUERQUE', 'PORTLAND', 'SAN FRANCISCO', 'TAMPA', 'NEW YORK', 'DETROIT', 'ST LOUIS', 'CHICAGO']
 
