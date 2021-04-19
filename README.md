@@ -51,7 +51,7 @@ Here, I plotted the 5 year rolling average of the yearly mean temperature as a f
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Mean%20Temperature%20Evolution%20ALB.jpg" width="800">
 
 
-This plot is similar to the previous one but taking the average over cities. The conclusion is that mean temperature have raisened 1.5°C in agreement with the literature.
+This plot is similar to the previous one but taking the average over cities. The conclusion is that mean temperature have raisened ~1.4°C in agreement with the literature.
 
 
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/Mean%20Temperature%20Evolution%20in%20USA.jpg" width="800">
