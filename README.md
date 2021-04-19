@@ -68,7 +68,7 @@ The gif plotted below is a representation of the evolution of the precious graph
 <img src="https://github.com/federicogaspar/Climate-Warming/blob/main/README%20IMG/ALBUQUERQUE.gif" width="800">
 
 
-### <ins>Linaer model.</ins>
+### <ins>Linear model.</ins>
 #### Trainning model:
 
 We train a linear regression model from years in range 1961, 2010. We plotted above the 5 years moving average of the yearly mean temperature in USA (averaging over the cities).  We decided to evaluate how well the model performs by computing the model’s R^2 value, also known as its coefficient of determination. This value provides a measure of how well the total variation of samples is explained by the model. In this case we obtained a value of ~0.93. This shows that the fit the linear model succesfully explain the trend in the data.
