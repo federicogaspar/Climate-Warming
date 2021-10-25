@@ -109,6 +109,5 @@ My intuition predicted that in addition to raising temperature, global warming a
 I investigated the global warming effect from a data set of the daily temperatures for 21 cities in the US. We can observe a raise on the temperatures in the coldest season of the year. The US yearly mean temperature have raised about 1.4°C. I also trainned a linear regression model to predict futures yearly mean temperatures. I tested the performance of the model in the range 2010-2015. Although the size of the data is small, the model matches the data. Finally, I explored the variance of the temperatures in data. There is no evidence that temperatures are getting more extreme, on the contrary, it seems that the tendency is towards a more compact uniform distribution. 
 
 
-## Vega Federico Gaspar
-## Canziani Karina Eva
+## Authors: Vega Federico Gaspar & Canziani Karina Eva
 
