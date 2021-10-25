@@ -110,3 +110,5 @@ I investigated the global warming effect from a data set of the daily temperatur
 
 
 ## Vega Federico Gaspar
+## Canziani Karina Eva
+
